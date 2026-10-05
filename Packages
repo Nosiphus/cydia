@@ -3,10 +3,10 @@ Version: 2026.10.04
 Architecture: iphoneos-arm
 Maintainer: Nosiphus
 Filename: debs/com.nosiphus.windowsxp_2026.10.04_iphoneos-arm.deb
-Size: 16101922
-MD5sum: f17333f72926dff2d0a5f7dd99cf4888
-SHA1: d71b381a780f0d78e7e28bc9054b176ec3ac9da3
-SHA256: 78aa8ab43e22b9bf6bec9168df98fe0e32598e8f60945f61c580ce5672aa40d4
+Size: 16101924
+MD5sum: b2305de93d585975ced3d0fb20ba0acf
+SHA1: 01869b117ee375b4c9a65313cd77bcc061cdbc12
+SHA256: 488f5a487f5c493925c4421a88c7144bbf19790be15e8005128798f1e9bae548
 Section: Themes
 Description: This package adds high definition icons from Windows XP to Cydia.
 Author: Nosiphus
