@@ -1,0 +1,20 @@
+<package>
+	<id>com.nosiphus.windowsxp</id>
+	<name>Windows XP</name>
+	<version>2026.10.04</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>6.1.6</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Windows XP theme for iOS 6</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Release of work that existed at the time.</change>
+	</changelog>
+	<links></links>
+</package>
